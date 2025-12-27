@@ -149,9 +149,28 @@ def main() -> None:
     nat_mode_kw = _env_list("NATIONAL_MODES", DEFAULT_NATIONAL_MODE_KEYWORDS)
     include_national = _include_national()
 
-    feed = feedparser.parse(rss_url)
-    if getattr(feed, "bozo", False):
-        raise RuntimeError(f"Failed to parse RSS feed: {getattr(feed, 'bozo_exception', 'unknown error')}")
+    import urllib.request
+
+   req = urllib.request.Request(
+       rss_url,
+       headers={"User-Agent": "Mozilla/5.0 (GitHub Actions)"},
+   )
+   raw = urllib.request.urlopen(req, timeout=30).read()
+   
+   # 先用 raw bytes 解析（避免错误文本解码）
+   feed = feedparser.parse(raw)
+   
+   # 如果 bozo 但 entries 其实有内容，就继续（很多 RSS 仍可用）
+   # 只有在“bozo 且没有任何 entries”时才算真正失败
+   if getattr(feed, "bozo", False) and not getattr(feed, "entries", []):
+       # 再做一次兜底：强制按 UTF-8 解码后再 parse
+       text = raw.decode("utf-8", errors="replace")
+       feed = feedparser.parse(text.encode("utf-8"))
+   
+   if getattr(feed, "bozo", False) and not getattr(feed, "entries", []):
+       raise RuntimeError(
+           f"Failed to parse RSS feed (no entries). bozo_exception={getattr(feed, 'bozo_exception', 'unknown')}"
+       )
 
     cal = Calendar()
     cal.add("prodid", "-//Milan Strike Feed (EN+ZH)//EN")
