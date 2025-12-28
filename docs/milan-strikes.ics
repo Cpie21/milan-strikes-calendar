@@ -7,111 +7,9 @@ X-WR-CALDESC:Auto-generated from MIT transport strikes RSS. High-recall fi
 X-WR-CALNAME:Milan transport strikes (may affect) / 可能影响米兰的
  交通罢工
 BEGIN:VEVENT
-SUMMARY:Local public transport strike (may affect Milan) / 城市公共交
- 通罢工（可能影响米兰）
-DTSTART;VALUE=DATE:20251121
-DTEND;VALUE=DATE:20260109
-UID:mit-strike-86e75c0331df966abd261c9e96715380c553755a@milan
-CATEGORIES:Strike\,Transport\,Local public transport strike
-DESCRIPTION:EN:\n• Type: Local public transport strike\n• Scope: Provi
- nce\n• This item was included by a high-recall filter (Milan/Lombardy ke
- ywords and/or national transport action).\n• Always verify details close
-  to the date via official notices.\n\n中文：\n• 类型：城市公共
- 交通罢工\n• 范围：省级\n• 该条目由“高召回”过滤
- 规则纳入（出现米兰/伦巴第关键词，或属于全国性交通
- 行动）。\n• 请在临近日期以官方通知为准。\n\nSource lin
- k / 来源链接：\nhttp://scioperi.mit.gov.it
-URL:http://scioperi.mit.gov.it
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Local public transport strike (may affect Milan) / 城市公共交
- 通罢工（可能影响米兰）
-DTSTART;VALUE=DATE:20251128
-DTEND;VALUE=DATE:20260109
-UID:mit-strike-781080226c4cee1e9ec7ca5edbd903abcb7eb8b6@milan
-CATEGORIES:Strike\,Transport\,Local public transport strike
-DESCRIPTION:EN:\n• Type: Local public transport strike\n• Scope: Provi
- nce\n• This item was included by a high-recall filter (Milan/Lombardy ke
- ywords and/or national transport action).\n• Always verify details close
-  to the date via official notices.\n\n中文：\n• 类型：城市公共
- 交通罢工\n• 范围：省级\n• 该条目由“高召回”过滤
- 规则纳入（出现米兰/伦巴第关键词，或属于全国性交通
- 行动）。\n• 请在临近日期以官方通知为准。\n\nSource lin
- k / 来源链接：\nhttp://scioperi.mit.gov.it
-URL:http://scioperi.mit.gov.it
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Local public transport strike (may affect Milan) / 城市公共交
- 通罢工（可能影响米兰）
-DTSTART;VALUE=DATE:20251205
-DTEND;VALUE=DATE:20260109
-UID:mit-strike-63632a3e264f84b71517abee91fd8da07030ac41@milan
-CATEGORIES:Strike\,Transport\,Local public transport strike
-DESCRIPTION:EN:\n• Type: Local public transport strike\n• Scope: Provi
- nce\n• This item was included by a high-recall filter (Milan/Lombardy ke
- ywords and/or national transport action).\n• Always verify details close
-  to the date via official notices.\n\n中文：\n• 类型：城市公共
- 交通罢工\n• 范围：省级\n• 该条目由“高召回”过滤
- 规则纳入（出现米兰/伦巴第关键词，或属于全国性交通
- 行动）。\n• 请在临近日期以官方通知为准。\n\nSource lin
- k / 来源链接：\nhttp://scioperi.mit.gov.it
-URL:http://scioperi.mit.gov.it
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Local public transport strike (may affect Milan) / 城市公共交
- 通罢工（可能影响米兰）
-DTSTART;VALUE=DATE:20251210
-DTEND;VALUE=DATE:20260109
-UID:mit-strike-ced63a094819efb3b568e8b0c32588f7866eed25@milan
-CATEGORIES:Strike\,Transport\,Local public transport strike
-DESCRIPTION:EN:\n• Type: Local public transport strike\n• Scope: Provi
- nce\n• This item was included by a high-recall filter (Milan/Lombardy ke
- ywords and/or national transport action).\n• Always verify details close
-  to the date via official notices.\n\n中文：\n• 类型：城市公共
- 交通罢工\n• 范围：省级\n• 该条目由“高召回”过滤
- 规则纳入（出现米兰/伦巴第关键词，或属于全国性交通
- 行动）。\n• 请在临近日期以官方通知为准。\n\nSource lin
- k / 来源链接：\nhttp://scioperi.mit.gov.it
-URL:http://scioperi.mit.gov.it
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Local public transport strike (may affect Milan) / 城市公共交
- 通罢工（可能影响米兰）
-DTSTART;VALUE=DATE:20251215
-DTEND;VALUE=DATE:20260109
-UID:mit-strike-2d562032f8ed3b685d1e0851cc58f0f333a98492@milan
-CATEGORIES:Strike\,Transport\,Local public transport strike
-DESCRIPTION:EN:\n• Type: Local public transport strike\n• Scope: Regio
- nal\n• This item was included by a high-recall filter (Milan/Lombardy ke
- ywords and/or national transport action).\n• Always verify details close
-  to the date via official notices.\n\n中文：\n• 类型：城市公共
- 交通罢工\n• 范围：区域\n• 该条目由“高召回”过滤
- 规则纳入（出现米兰/伦巴第关键词，或属于全国性交通
- 行动）。\n• 请在临近日期以官方通知为准。\n\nSource lin
- k / 来源链接：\nhttp://scioperi.mit.gov.it
-URL:http://scioperi.mit.gov.it
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Local public transport strike (may affect Milan) / 城市公共交
- 通罢工（可能影响米兰）
-DTSTART;VALUE=DATE:20251110
-DTEND;VALUE=DATE:20260110
-UID:mit-strike-944f5340efddcbccc47b6b9222272864904864af@milan
-CATEGORIES:Strike\,Transport\,Local public transport strike
-DESCRIPTION:EN:\n• Type: Local public transport strike\n• Scope: Provi
- nce\n• This item was included by a high-recall filter (Milan/Lombardy ke
- ywords and/or national transport action).\n• Always verify details close
-  to the date via official notices.\n\n中文：\n• 类型：城市公共
- 交通罢工\n• 范围：省级\n• 该条目由“高召回”过滤
- 规则纳入（出现米兰/伦巴第关键词，或属于全国性交通
- 行动）。\n• 请在临近日期以官方通知为准。\n\nSource lin
- k / 来源链接：\nhttp://scioperi.mit.gov.it
-URL:http://scioperi.mit.gov.it
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Air transport strike (may affect Milan) / 航空相关罢工（可
  能影响米兰）
-DTSTART;VALUE=DATE:20251110
+DTSTART;VALUE=DATE:20260109
 DTEND;VALUE=DATE:20260110
 UID:mit-strike-b8b5ee1e3d0c23ac7a4059abd99a14acc6b127dd@milan
 CATEGORIES:Strike\,Transport\,Air transport strike
@@ -128,41 +26,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Air transport strike (may affect Milan) / 航空相关罢工（可
  能影响米兰）
-DTSTART;VALUE=DATE:20251119
-DTEND;VALUE=DATE:20260110
-UID:mit-strike-b8b5ee1e3d0c23ac7a4059abd99a14acc6b127dd@milan
-CATEGORIES:Strike\,Transport\,Air transport strike
-DESCRIPTION:EN:\n• Type: Air transport strike\n• Scope: National\n• 
- This item was included by a high-recall filter (Milan/Lombardy keywords an
- d/or national transport action).\n• Always verify details close to the d
- ate via official notices.\n\n中文：\n• 类型：航空相关罢工\n
- • 范围：全国\n• 该条目由“高召回”过滤规则纳入（
- 出现米兰/伦巴第关键词，或属于全国性交通行动）。\n
- • 请在临近日期以官方通知为准。\n\nSource link / 来源链
- 接：\nhttp://scioperi.mit.gov.it
-URL:http://scioperi.mit.gov.it
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Local public transport strike (may affect Milan) / 城市公共交
- 通罢工（可能影响米兰）
-DTSTART;VALUE=DATE:20251124
-DTEND;VALUE=DATE:20260110
-UID:mit-strike-4d3c297cd2d1cc54c4cb8b5bec43d1c891bc0c2c@milan
-CATEGORIES:Strike\,Transport\,Local public transport strike
-DESCRIPTION:EN:\n• Type: Local public transport strike\n• Scope: Provi
- nce\n• This item was included by a high-recall filter (Milan/Lombardy ke
- ywords and/or national transport action).\n• Always verify details close
-  to the date via official notices.\n\n中文：\n• 类型：城市公共
- 交通罢工\n• 范围：省级\n• 该条目由“高召回”过滤
- 规则纳入（出现米兰/伦巴第关键词，或属于全国性交通
- 行动）。\n• 请在临近日期以官方通知为准。\n\nSource lin
- k / 来源链接：\nhttp://scioperi.mit.gov.it
-URL:http://scioperi.mit.gov.it
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Air transport strike (may affect Milan) / 航空相关罢工（可
- 能影响米兰）
-DTSTART;VALUE=DATE:20251124
+DTSTART;VALUE=DATE:20260109
 DTEND;VALUE=DATE:20260110
 UID:mit-strike-b8b5ee1e3d0c23ac7a4059abd99a14acc6b127dd@milan
 CATEGORIES:Strike\,Transport\,Air transport strike
@@ -179,7 +43,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Air transport strike (may affect Milan) / 航空相关罢工（可
  能影响米兰）
-DTSTART;VALUE=DATE:20251205
+DTSTART;VALUE=DATE:20260109
 DTEND;VALUE=DATE:20260110
 UID:mit-strike-b8b5ee1e3d0c23ac7a4059abd99a14acc6b127dd@milan
 CATEGORIES:Strike\,Transport\,Air transport strike
@@ -196,7 +60,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Air transport strike (may affect Milan) / 航空相关罢工（可
  能影响米兰）
-DTSTART;VALUE=DATE:20251206
+DTSTART;VALUE=DATE:20260109
 DTEND;VALUE=DATE:20260110
 UID:mit-strike-b8b5ee1e3d0c23ac7a4059abd99a14acc6b127dd@milan
 CATEGORIES:Strike\,Transport\,Air transport strike
@@ -213,7 +77,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Air transport strike (may affect Milan) / 航空相关罢工（可
  能影响米兰）
-DTSTART;VALUE=DATE:20251222
+DTSTART;VALUE=DATE:20260109
 DTEND;VALUE=DATE:20260110
 UID:mit-strike-b8b5ee1e3d0c23ac7a4059abd99a14acc6b127dd@milan
 CATEGORIES:Strike\,Transport\,Air transport strike
@@ -230,7 +94,24 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Air transport strike (may affect Milan) / 航空相关罢工（可
  能影响米兰）
-DTSTART;VALUE=DATE:20251223
+DTSTART;VALUE=DATE:20260109
+DTEND;VALUE=DATE:20260110
+UID:mit-strike-b8b5ee1e3d0c23ac7a4059abd99a14acc6b127dd@milan
+CATEGORIES:Strike\,Transport\,Air transport strike
+DESCRIPTION:EN:\n• Type: Air transport strike\n• Scope: National\n• 
+ This item was included by a high-recall filter (Milan/Lombardy keywords an
+ d/or national transport action).\n• Always verify details close to the d
+ ate via official notices.\n\n中文：\n• 类型：航空相关罢工\n
+ • 范围：全国\n• 该条目由“高召回”过滤规则纳入（
+ 出现米兰/伦巴第关键词，或属于全国性交通行动）。\n
+ • 请在临近日期以官方通知为准。\n\nSource link / 来源链
+ 接：\nhttp://scioperi.mit.gov.it
+URL:http://scioperi.mit.gov.it
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Air transport strike (may affect Milan) / 航空相关罢工（可
+ 能影响米兰）
+DTSTART;VALUE=DATE:20260109
 DTEND;VALUE=DATE:20260110
 UID:mit-strike-b8b5ee1e3d0c23ac7a4059abd99a14acc6b127dd@milan
 CATEGORIES:Strike\,Transport\,Air transport strike
@@ -247,7 +128,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Rail strike (may affect Milan) / 铁路罢工（可能影响米兰
  ）
-DTSTART;VALUE=DATE:20251224
+DTSTART;VALUE=DATE:20260110
 DTEND;VALUE=DATE:20260111
 UID:mit-strike-2938560942966bbece5f2b2163d1597ae99fbf24@milan
 CATEGORIES:Strike\,Transport\,Rail strike
@@ -264,7 +145,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Rail strike (may affect Milan) / 铁路罢工（可能影响米兰
  ）
-DTSTART;VALUE=DATE:20251224
+DTSTART;VALUE=DATE:20260110
 DTEND;VALUE=DATE:20260111
 UID:mit-strike-2938560942966bbece5f2b2163d1597ae99fbf24@milan
 CATEGORIES:Strike\,Transport\,Rail strike
@@ -281,8 +162,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Rail strike (may affect Milan) / 铁路罢工（可能影响米兰
  ）
-DTSTART;VALUE=DATE:20251121
-DTEND;VALUE=DATE:20260114
+DTSTART;VALUE=DATE:20260112
+DTEND;VALUE=DATE:20260113
 UID:mit-strike-ae85a977bc8f4cfe035f9142e2df0957f3f326fd@milan
 CATEGORIES:Strike\,Transport\,Rail strike
 DESCRIPTION:EN:\n• Type: Rail strike\n• Scope: Regional\n• This item
@@ -296,26 +177,9 @@ DESCRIPTION:EN:\n• Type: Rail strike\n• Scope: Regional\n• This item
 URL:http://scioperi.mit.gov.it
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Local public transport strike (may affect Milan) / 城市公共交
- 通罢工（可能影响米兰）
-DTSTART;VALUE=DATE:20251205
-DTEND;VALUE=DATE:20260114
-UID:mit-strike-e5c950aa3f078f8afe7021274a259e9fa41f7405@milan
-CATEGORIES:Strike\,Transport\,Local public transport strike
-DESCRIPTION:EN:\n• Type: Local public transport strike\n• Scope: Regio
- nal\n• This item was included by a high-recall filter (Milan/Lombardy ke
- ywords and/or national transport action).\n• Always verify details close
-  to the date via official notices.\n\n中文：\n• 类型：城市公共
- 交通罢工\n• 范围：区域\n• 该条目由“高召回”过滤
- 规则纳入（出现米兰/伦巴第关键词，或属于全国性交通
- 行动）。\n• 请在临近日期以官方通知为准。\n\nSource lin
- k / 来源链接：\nhttp://scioperi.mit.gov.it
-URL:http://scioperi.mit.gov.it
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Road transport strike (may affect Milan) / 公路交通相关罢
  工（可能影响米兰）
-DTSTART;VALUE=DATE:20251217
+DTSTART;VALUE=DATE:20260113
 DTEND;VALUE=DATE:20260114
 UID:mit-strike-655b84555915e78e2141efb09cd4f1e3445b5b45@milan
 CATEGORIES:Strike\,Transport\,Road transport strike
@@ -330,43 +194,9 @@ DESCRIPTION:EN:\n• Type: Road transport strike\n• Scope: National\n•
 URL:http://scioperi.mit.gov.it
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Transport strike (may affect Milan) / 交通罢工（可能影响
- 米兰）
-DTSTART;VALUE=DATE:20251111
-DTEND;VALUE=DATE:20260115
-UID:mit-strike-576ec3c1cdbc2b7c1b76678e19017a04f4ec2acb@milan
-CATEGORIES:Strike\,Transport\,Transport strike
-DESCRIPTION:EN:\n• Type: Transport strike\n• Scope: Regional\n• This
-  item was included by a high-recall filter (Milan/Lombardy keywords and/or
-  national transport action).\n• Always verify details close to the date 
- via official notices.\n\n中文：\n• 类型：交通罢工\n• 范围
- ：区域\n• 该条目由“高召回”过滤规则纳入（出现米
- 兰/伦巴第关键词，或属于全国性交通行动）。\n• 请在
- 临近日期以官方通知为准。\n\nSource link / 来源链接：\nhtt
- p://scioperi.mit.gov.it
-URL:http://scioperi.mit.gov.it
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Transport strike (may affect Milan) / 交通罢工（可能影响
- 米兰）
-DTSTART;VALUE=DATE:20251209
-DTEND;VALUE=DATE:20260116
-UID:mit-strike-95787145618ef4317bc046486228a884c594be1a@milan
-CATEGORIES:Strike\,Transport\,Transport strike
-DESCRIPTION:EN:\n• Type: Transport strike\n• Scope: National\n• This
-  item was included by a high-recall filter (Milan/Lombardy keywords and/or
-  national transport action).\n• Always verify details close to the date 
- via official notices.\n\n中文：\n• 类型：交通罢工\n• 范围
- ：全国\n• 该条目由“高召回”过滤规则纳入（出现米
- 兰/伦巴第关键词，或属于全国性交通行动）。\n• 请在
- 临近日期以官方通知为准。\n\nSource link / 来源链接：\nhtt
- p://scioperi.mit.gov.it
-URL:http://scioperi.mit.gov.it
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Local public transport strike (may affect Milan) / 城市公共交
  通罢工（可能影响米兰）
-DTSTART;VALUE=DATE:20251218
+DTSTART;VALUE=DATE:20260115
 DTEND;VALUE=DATE:20260116
 UID:mit-strike-1834803cf23c88fb2083c2b58e2089a234096413@milan
 CATEGORIES:Strike\,Transport\,Local public transport strike
@@ -383,109 +213,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Local public transport strike (may affect Milan) / 城市公共交
  通罢工（可能影响米兰）
-DTSTART;VALUE=DATE:20251213
-DTEND;VALUE=DATE:20260117
-UID:mit-strike-67c4e4f451552440ee1908098448e0c150c93d4d@milan
-CATEGORIES:Strike\,Transport\,Local public transport strike
-DESCRIPTION:EN:\n• Type: Local public transport strike\n• Scope: Regio
- nal\n• This item was included by a high-recall filter (Milan/Lombardy ke
- ywords and/or national transport action).\n• Always verify details close
-  to the date via official notices.\n\n中文：\n• 类型：城市公共
- 交通罢工\n• 范围：区域\n• 该条目由“高召回”过滤
- 规则纳入（出现米兰/伦巴第关键词，或属于全国性交通
- 行动）。\n• 请在临近日期以官方通知为准。\n\nSource lin
- k / 来源链接：\nhttp://scioperi.mit.gov.it
-URL:http://scioperi.mit.gov.it
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Local public transport strike (may affect Milan) / 城市公共交
- 通罢工（可能影响米兰）
-DTSTART;VALUE=DATE:20251217
-DTEND;VALUE=DATE:20260117
-UID:mit-strike-2f594e9bc915d8e9eed2edb75feff5492f7d6be9@milan
-CATEGORIES:Strike\,Transport\,Local public transport strike
-DESCRIPTION:EN:\n• Type: Local public transport strike\n• Scope: Provi
- nce\n• This item was included by a high-recall filter (Milan/Lombardy ke
- ywords and/or national transport action).\n• Always verify details close
-  to the date via official notices.\n\n中文：\n• 类型：城市公共
- 交通罢工\n• 范围：省级\n• 该条目由“高召回”过滤
- 规则纳入（出现米兰/伦巴第关键词，或属于全国性交通
- 行动）。\n• 请在临近日期以官方通知为准。\n\nSource lin
- k / 来源链接：\nhttp://scioperi.mit.gov.it
-URL:http://scioperi.mit.gov.it
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Local public transport strike (may affect Milan) / 城市公共交
- 通罢工（可能影响米兰）
-DTSTART;VALUE=DATE:20251218
-DTEND;VALUE=DATE:20260117
-UID:mit-strike-080a1e07bdb2afea91e540d57bbf35658cca9466@milan
-CATEGORIES:Strike\,Transport\,Local public transport strike
-DESCRIPTION:EN:\n• Type: Local public transport strike\n• Scope: Provi
- nce\n• This item was included by a high-recall filter (Milan/Lombardy ke
- ywords and/or national transport action).\n• Always verify details close
-  to the date via official notices.\n\n中文：\n• 类型：城市公共
- 交通罢工\n• 范围：省级\n• 该条目由“高召回”过滤
- 规则纳入（出现米兰/伦巴第关键词，或属于全国性交通
- 行动）。\n• 请在临近日期以官方通知为准。\n\nSource lin
- k / 来源链接：\nhttp://scioperi.mit.gov.it
-URL:http://scioperi.mit.gov.it
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Local public transport strike (may affect Milan) / 城市公共交
- 通罢工（可能影响米兰）
-DTSTART;VALUE=DATE:20251218
-DTEND;VALUE=DATE:20260117
-UID:mit-strike-2cd5e5c8685264f7d547af45792187bed6101b97@milan
-CATEGORIES:Strike\,Transport\,Local public transport strike
-DESCRIPTION:EN:\n• Type: Local public transport strike\n• Scope: Provi
- nce\n• This item was included by a high-recall filter (Milan/Lombardy ke
- ywords and/or national transport action).\n• Always verify details close
-  to the date via official notices.\n\n中文：\n• 类型：城市公共
- 交通罢工\n• 范围：省级\n• 该条目由“高召回”过滤
- 规则纳入（出现米兰/伦巴第关键词，或属于全国性交通
- 行动）。\n• 请在临近日期以官方通知为准。\n\nSource lin
- k / 来源链接：\nhttp://scioperi.mit.gov.it
-URL:http://scioperi.mit.gov.it
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Local public transport strike (may affect Milan) / 城市公共交
- 通罢工（可能影响米兰）
-DTSTART;VALUE=DATE:20251218
-DTEND;VALUE=DATE:20260117
-UID:mit-strike-60a9dc8b66ee8530882e0ed7b15332e81c39c65b@milan
-CATEGORIES:Strike\,Transport\,Local public transport strike
-DESCRIPTION:EN:\n• Type: Local public transport strike\n• Scope: Provi
- nce\n• This item was included by a high-recall filter (Milan/Lombardy ke
- ywords and/or national transport action).\n• Always verify details close
-  to the date via official notices.\n\n中文：\n• 类型：城市公共
- 交通罢工\n• 范围：省级\n• 该条目由“高召回”过滤
- 规则纳入（出现米兰/伦巴第关键词，或属于全国性交通
- 行动）。\n• 请在临近日期以官方通知为准。\n\nSource lin
- k / 来源链接：\nhttp://scioperi.mit.gov.it
-URL:http://scioperi.mit.gov.it
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Local public transport strike (may affect Milan) / 城市公共交
- 通罢工（可能影响米兰）
-DTSTART;VALUE=DATE:20251218
-DTEND;VALUE=DATE:20260117
-UID:mit-strike-080a1e07bdb2afea91e540d57bbf35658cca9466@milan
-CATEGORIES:Strike\,Transport\,Local public transport strike
-DESCRIPTION:EN:\n• Type: Local public transport strike\n• Scope: Provi
- nce\n• This item was included by a high-recall filter (Milan/Lombardy ke
- ywords and/or national transport action).\n• Always verify details close
-  to the date via official notices.\n\n中文：\n• 类型：城市公共
- 交通罢工\n• 范围：省级\n• 该条目由“高召回”过滤
- 规则纳入（出现米兰/伦巴第关键词，或属于全国性交通
- 行动）。\n• 请在临近日期以官方通知为准。\n\nSource lin
- k / 来源链接：\nhttp://scioperi.mit.gov.it
-URL:http://scioperi.mit.gov.it
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Local public transport strike (may affect Milan) / 城市公共交
- 通罢工（可能影响米兰）
-DTSTART;VALUE=DATE:20251217
+DTSTART;VALUE=DATE:20260120
 DTEND;VALUE=DATE:20260121
 UID:mit-strike-21ebf85f00044a5d3450ed4fb75c9b00b7950aaf@milan
 CATEGORIES:Strike\,Transport\,Local public transport strike
@@ -502,7 +230,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Rail strike (may affect Milan) / 铁路罢工（可能影响米兰
  ）
-DTSTART;VALUE=DATE:20251218
+DTSTART;VALUE=DATE:20260120
 DTEND;VALUE=DATE:20260121
 UID:mit-strike-70201a1174435bbd4e2136a47a9b204df022d91e@milan
 CATEGORIES:Strike\,Transport\,Rail strike
@@ -517,77 +245,9 @@ DESCRIPTION:EN:\n• Type: Rail strike\n• Scope: National\n• This item
 URL:http://scioperi.mit.gov.it
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Rail strike (may affect Milan) / 铁路罢工（可能影响米兰
- ）
-DTSTART;VALUE=DATE:20251210
-DTEND;VALUE=DATE:20260124
-UID:mit-strike-be1ac00d625f52e2836f61ab274d7ccbfbd60bd5@milan
-CATEGORIES:Strike\,Transport\,Rail strike
-DESCRIPTION:EN:\n• Type: Rail strike\n• Scope: Province\n• This item
-  was included by a high-recall filter (Milan/Lombardy keywords and/or nati
- onal transport action).\n• Always verify details close to the date via o
- fficial notices.\n\n中文：\n• 类型：铁路罢工\n• 范围：省
- 级\n• 该条目由“高召回”过滤规则纳入（出现米兰/伦
- 巴第关键词，或属于全国性交通行动）。\n• 请在临近
- 日期以官方通知为准。\n\nSource link / 来源链接：\nhttp://sc
- ioperi.mit.gov.it
-URL:http://scioperi.mit.gov.it
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Local public transport strike (may affect Milan) / 城市公共交
- 通罢工（可能影响米兰）
-DTSTART;VALUE=DATE:20251223
-DTEND;VALUE=DATE:20260130
-UID:mit-strike-23fbc17d4037edc48f450796648cde60a8fde862@milan
-CATEGORIES:Strike\,Transport\,Local public transport strike
-DESCRIPTION:EN:\n• Type: Local public transport strike\n• Scope: Provi
- nce\n• This item was included by a high-recall filter (Milan/Lombardy ke
- ywords and/or national transport action).\n• Always verify details close
-  to the date via official notices.\n\n中文：\n• 类型：城市公共
- 交通罢工\n• 范围：省级\n• 该条目由“高召回”过滤
- 规则纳入（出现米兰/伦巴第关键词，或属于全国性交通
- 行动）。\n• 请在临近日期以官方通知为准。\n\nSource lin
- k / 来源链接：\nhttp://scioperi.mit.gov.it
-URL:http://scioperi.mit.gov.it
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Rail strike (may affect Milan) / 铁路罢工（可能影响米兰
- ）
-DTSTART;VALUE=DATE:20251211
-DTEND;VALUE=DATE:20260131
-UID:mit-strike-56f67bd807afadbad02c3b4e71d13b747a7bb347@milan
-CATEGORIES:Strike\,Transport\,Rail strike
-DESCRIPTION:EN:\n• Type: Rail strike\n• Scope: Province\n• This item
-  was included by a high-recall filter (Milan/Lombardy keywords and/or nati
- onal transport action).\n• Always verify details close to the date via o
- fficial notices.\n\n中文：\n• 类型：铁路罢工\n• 范围：省
- 级\n• 该条目由“高召回”过滤规则纳入（出现米兰/伦
- 巴第关键词，或属于全国性交通行动）。\n• 请在临近
- 日期以官方通知为准。\n\nSource link / 来源链接：\nhttp://sc
- ioperi.mit.gov.it
-URL:http://scioperi.mit.gov.it
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Air transport strike (may affect Milan) / 航空相关罢工（可
  能影响米兰）
-DTSTART;VALUE=DATE:20251211
-DTEND;VALUE=DATE:20260201
-UID:mit-strike-20c34eadb35292d97b999f18951c0fa3d1598c8b@milan
-CATEGORIES:Strike\,Transport\,Air transport strike
-DESCRIPTION:EN:\n• Type: Air transport strike\n• Scope: Regional\n• 
- This item was included by a high-recall filter (Milan/Lombardy keywords an
- d/or national transport action).\n• Always verify details close to the d
- ate via official notices.\n\n中文：\n• 类型：航空相关罢工\n
- • 范围：区域\n• 该条目由“高召回”过滤规则纳入（
- 出现米兰/伦巴第关键词，或属于全国性交通行动）。\n
- • 请在临近日期以官方通知为准。\n\nSource link / 来源链
- 接：\nhttp://scioperi.mit.gov.it
-URL:http://scioperi.mit.gov.it
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Air transport strike (may affect Milan) / 航空相关罢工（可
- 能影响米兰）
-DTSTART;VALUE=DATE:20251222
+DTSTART;VALUE=DATE:20260216
 DTEND;VALUE=DATE:20260217
 UID:mit-strike-e80a2b11716923db8fad153fb4ecf3f3ed84a21d@milan
 CATEGORIES:Strike\,Transport\,Air transport strike
