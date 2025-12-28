@@ -82,6 +82,11 @@ def matches_any(text: str, keywords: Iterable[str]) -> bool:
             return True
     return False
 
+def is_cancelled(text: str) -> bool:
+    t = (text or "").lower()
+    # 常见取消/撤销/延期关键词（出现就不应当进日历）
+    return any(k in t for k in ["revoc", "annull", "sospes", "differit", "rinviat", "cancell"])
+
 def extract_dates(text: str) -> list[date]:
     found: list[date] = []
     for pat in DATE_PATTERNS:
@@ -186,6 +191,8 @@ def main() -> None:
         link = getattr(entry, "link", "") or ""
 
         blob = f"{title}\n{summary}\n{link}"
+        if is_cancelled(blob):
+            continue
 
         if not should_include(blob, geo_kw, include_national, nat_mode_kw):
             continue
@@ -195,10 +202,13 @@ def main() -> None:
             pp = getattr(entry, "published_parsed", None) or getattr(entry, "updated_parsed", None)
             if pp:
                 dates = [date(pp.tm_year, pp.tm_mon, pp.tm_mday)]
-        span = choose_event_span(dates)
-        if not span:
+        if not dates:
             continue
-        dtstart, dtend = span
+
+        today = date.today()
+        future = sorted([d for d in dates if d >= today])
+        dtstart = future[0] if future else sorted(dates)[0]
+        dtend = dtstart + timedelta(days=1)  # 永远只占一天
 
         mode_en, mode_zh = detect_mode(blob)
         scope = detect_scope(blob)
