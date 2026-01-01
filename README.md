@@ -7,17 +7,6 @@ What it targets:
 - Plus **national** transport strikes for key modes (local public transport / rail / air / highways)
 - Event titles + descriptions are **English + Chinese only** (no Italian shown)
 
-## Quick setup (GitHub Pages)
-1) Create a **public** GitHub repo (e.g. `milan-strikes-calendar`)
-2) Upload this whole folder into the repo (keep the same structure)
-3) Enable GitHub Pages:
-   - Repo → Settings → Pages
-   - Source: Deploy from a branch
-   - Branch: `main`, Folder: `/docs`
-
-Your calendar URL will be:
-`https://<YOUR_GITHUB_USERNAME>.github.io/<REPO_NAME>/milan-strikes.ics`
-
 ## Subscribe in Apple Calendar
 - macOS: Calendar → File → New Calendar Subscription… → paste URL
 - iPhone/iPad: Settings → Calendar → Accounts → Add Account → Other → Add Subscribed Calendar → paste URL
