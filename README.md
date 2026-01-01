@@ -22,12 +22,6 @@ Your calendar URL will be:
 - macOS: Calendar → File → New Calendar Subscription… → paste URL
 - iPhone/iPad: Settings → Calendar → Accounts → Add Account → Other → Add Subscribed Calendar → paste URL
 
-## Tuning (optional)
-Edit `.github/workflows/update.yml`:
-- `GEO_KEYWORDS`: add/remove cities/airports
-- `INCLUDE_NATIONAL`: set to "0" if you only want explicit Milan/Lombardy mentions
-- `NATIONAL_MODES`: expand to catch more national actions
-
 ## Notes
 - Events are generated as **all-day** to avoid wrong time windows (strike times change frequently).
 - Always verify details close to the date via official notices.
