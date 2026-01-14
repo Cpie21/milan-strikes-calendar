@@ -7,57 +7,6 @@ X-WR-CALDESC:Auto-generated from MIT transport strikes RSS. High-recall fi
 X-WR-CALNAME:Milan transport strikes (may affect) / 可能影响米兰的
  交通罢工
 BEGIN:VEVENT
-SUMMARY:Rail strike (may affect Milan) / 铁路罢工（可能影响米兰
- ）
-DTSTART;VALUE=DATE:20260113
-DTEND;VALUE=DATE:20260114
-UID:mit-strike-ae85a977bc8f4cfe035f9142e2df0957f3f326fd@milan
-CATEGORIES:Strike\,Transport\,Rail strike
-DESCRIPTION:EN:\n• Type: Rail strike\n• Scope: Regional\n• This item
-  was included by a high-recall filter (Milan/Lombardy keywords and/or nati
- onal transport action).\n• Always verify details close to the date via o
- fficial notices.\n\n中文：\n• 类型：铁路罢工\n• 范围：区
- 域\n• 该条目由“高召回”过滤规则纳入（出现米兰/伦
- 巴第关键词，或属于全国性交通行动）。\n• 请在临近
- 日期以官方通知为准。\n\nSource link / 来源链接：\nhttp://sc
- ioperi.mit.gov.it
-URL:http://scioperi.mit.gov.it
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Rail strike (may affect Milan) / 铁路罢工（可能影响米兰
- ）
-DTSTART;VALUE=DATE:20260113
-DTEND;VALUE=DATE:20260114
-UID:mit-strike-f381a3cf9d4446de377b2d4a05f094a6b41bf44d@milan
-CATEGORIES:Strike\,Transport\,Rail strike
-DESCRIPTION:EN:\n• Type: Rail strike\n• Scope: Province\n• This item
-  was included by a high-recall filter (Milan/Lombardy keywords and/or nati
- onal transport action).\n• Always verify details close to the date via o
- fficial notices.\n\n中文：\n• 类型：铁路罢工\n• 范围：省
- 级\n• 该条目由“高召回”过滤规则纳入（出现米兰/伦
- 巴第关键词，或属于全国性交通行动）。\n• 请在临近
- 日期以官方通知为准。\n\nSource link / 来源链接：\nhttp://sc
- ioperi.mit.gov.it
-URL:http://scioperi.mit.gov.it
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Road transport strike (may affect Milan) / 公路交通相关罢
- 工（可能影响米兰）
-DTSTART;VALUE=DATE:20260113
-DTEND;VALUE=DATE:20260114
-UID:mit-strike-655b84555915e78e2141efb09cd4f1e3445b5b45@milan
-CATEGORIES:Strike\,Transport\,Road transport strike
-DESCRIPTION:EN:\n• Type: Road transport strike\n• Scope: National\n•
-  This item was included by a high-recall filter (Milan/Lombardy keywords a
- nd/or national transport action).\n• Always verify details close to the 
- date via official notices.\n\n中文：\n• 类型：公路交通相关
- 罢工\n• 范围：全国\n• 该条目由“高召回”过滤规则
- 纳入（出现米兰/伦巴第关键词，或属于全国性交通行动
- ）。\n• 请在临近日期以官方通知为准。\n\nSource link / 
- 来源链接：\nhttp://scioperi.mit.gov.it
-URL:http://scioperi.mit.gov.it
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Local public transport strike (may affect Milan) / 城市公共交
  通罢工（可能影响米兰）
 DTSTART;VALUE=DATE:20260115
