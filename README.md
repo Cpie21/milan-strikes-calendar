@@ -12,5 +12,5 @@ What it targets? 🎯
 - iPhone/iPad: Settings → Calendar → Accounts → Add Account → Other → Add Subscribed Calendar → paste URL
 
 ## Notes 🚨
-- Events are generated as **all-day** to avoid wrong time windows (strike times change frequently).
-- Always verify details close to the date via official notices.
+- The added calendar type is an *all-day* calendar.
+- You could verify details close to the date via official notices; searches may make mistakes.
