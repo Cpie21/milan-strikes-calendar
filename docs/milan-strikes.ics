@@ -194,6 +194,23 @@ DESCRIPTION:EN:\n• Type: Air transport strike\n• Scope: National\n•
 URL:http://scioperi.mit.gov.it
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Air transport strike (may affect Milan) / 航空相关罢工（可
+ 能影响米兰）
+DTSTART;VALUE=DATE:20260225
+DTEND;VALUE=DATE:20260226
+UID:mit-strike-92608fa38f1762d9537bc44cde5eccb1782f1cd3@milan
+CATEGORIES:Strike\,Transport\,Air transport strike
+DESCRIPTION:EN:\n• Type: Air transport strike\n• Scope: National\n• 
+ This item was included by a high-recall filter (Milan/Lombardy keywords an
+ d/or national transport action).\n• Always verify details close to the d
+ ate via official notices.\n\n中文：\n• 类型：航空相关罢工\n
+ • 范围：全国\n• 该条目由“高召回”过滤规则纳入（
+ 出现米兰/伦巴第关键词，或属于全国性交通行动）。\n
+ • 请在临近日期以官方通知为准。\n\nSource link / 来源链
+ 接：\nhttp://scioperi.mit.gov.it
+URL:http://scioperi.mit.gov.it
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Rail strike (may affect Milan) / 铁路罢工（可能影响米兰
  ）
 DTSTART;VALUE=DATE:20260227
