@@ -9,23 +9,6 @@ X-WR-CALNAME:Milan transport strikes (may affect) / 可能影响米兰的
 BEGIN:VEVENT
 SUMMARY:Local public transport strike (may affect Milan) / 城市公共交
  通罢工（可能影响米兰）
-DTSTART;VALUE=DATE:20260515
-DTEND;VALUE=DATE:20260516
-UID:mit-strike-9b221b35edc513c1ce71b7ba3541bf8e14a3aa79@milan
-CATEGORIES:Strike\,Transport\,Local public transport strike
-DESCRIPTION:EN:\n• Type: Local public transport strike\n• Scope: Provi
- nce\n• This item was included by a high-recall filter (Milan/Lombardy ke
- ywords and/or national transport action).\n• Always verify details close
-  to the date via official notices.\n\n中文：\n• 类型：城市公共
- 交通罢工\n• 范围：省级\n• 该条目由“高召回”过滤
- 规则纳入（出现米兰/伦巴第关键词，或属于全国性交通
- 行动）。\n• 请在临近日期以官方通知为准。\n\nSource lin
- k / 来源链接：\nhttp://scioperi.mit.gov.it
-URL:http://scioperi.mit.gov.it
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Local public transport strike (may affect Milan) / 城市公共交
- 通罢工（可能影响米兰）
 DTSTART;VALUE=DATE:20260518
 DTEND;VALUE=DATE:20260519
 UID:mit-strike-38470557e5a8f4c14d32f83b77991b6280f2b219@milan
