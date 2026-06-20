@@ -145,8 +145,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Air transport strike (may affect Milan) / 航空相关罢工（可
  能影响米兰）
-DTSTART;VALUE=DATE:20260619
-DTEND;VALUE=DATE:20260620
+DTSTART;VALUE=DATE:20260705
+DTEND;VALUE=DATE:20260706
 UID:mit-strike-98f4278afcf6d0fb3b443d50bb4fbf3620dc8948@milan
 CATEGORIES:Strike\,Transport\,Air transport strike
 DESCRIPTION:EN:\n• Type: Air transport strike\n• Scope: National\n• 
@@ -162,8 +162,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Rail strike (may affect Milan) / 铁路罢工（可能影响米兰
  ）
-DTSTART;VALUE=DATE:20260619
-DTEND;VALUE=DATE:20260620
+DTSTART;VALUE=DATE:20260706
+DTEND;VALUE=DATE:20260707
 UID:mit-strike-3f24d296136eb20bfe72b384a4293b9148634e4a@milan
 CATEGORIES:Strike\,Transport\,Rail strike
 DESCRIPTION:EN:\n• Type: Rail strike\n• Scope: National\n• This item
