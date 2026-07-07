@@ -9,8 +9,8 @@ X-WR-CALNAME:Milan transport strikes (may affect) / 可能影响米兰的
 BEGIN:VEVENT
 SUMMARY:Rail strike (may affect Milan) / 铁路罢工（可能影响米兰
  ）
-DTSTART;VALUE=DATE:20260706
-DTEND;VALUE=DATE:20260707
+DTSTART;VALUE=DATE:20260707
+DTEND;VALUE=DATE:20260708
 UID:mit-strike-3f24d296136eb20bfe72b384a4293b9148634e4a@milan
 CATEGORIES:Strike\,Transport\,Rail strike
 DESCRIPTION:EN:\n• Type: Rail strike\n• Scope: National\n• This item
