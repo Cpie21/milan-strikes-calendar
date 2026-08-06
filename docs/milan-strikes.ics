@@ -60,9 +60,9 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Local public transport strike (may affect Milan) / 城市公共交
  通罢工（可能影响米兰）
-DTSTART;VALUE=DATE:20260925
-DTEND;VALUE=DATE:20260926
-UID:mit-strike-20e7843a3ab585a578348489305597cfdb87d617@milan
+DTSTART;VALUE=DATE:20260926
+DTEND;VALUE=DATE:20260927
+UID:mit-strike-bf647b569b101d5f1e0d75984dfb3b9f6ba3888d@milan
 CATEGORIES:Strike\,Transport\,Local public transport strike
 DESCRIPTION:EN:\n• Type: Local public transport strike\n• Scope: Natio
  nal\n• This item was included by a high-recall filter (Milan/Lombardy ke
