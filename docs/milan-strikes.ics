@@ -213,8 +213,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Rail strike (may affect Milan) / 铁路罢工（可能影响米兰
  ）
-DTSTART;VALUE=DATE:20260902
-DTEND;VALUE=DATE:20260903
+DTSTART;VALUE=DATE:20261002
+DTEND;VALUE=DATE:20261003
 UID:mit-strike-5bc2989968fbd1258e72ca7af477035120a3a52d@milan
 CATEGORIES:Strike\,Transport\,Rail strike
 DESCRIPTION:EN:\n• Type: Rail strike\n• Scope: National\n• This item
